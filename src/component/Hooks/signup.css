@@ -1,0 +1,30 @@
+body{
+    background-color: #b2aba9;
+}
+
+.main-div{
+    width:50%;
+    background-color: aqua;
+   justify-content: center;
+    margin-left:26%;
+    margin-top: 5%;
+    text-align: center;
+    padding:5px 0px 0px 0px
+}
+.sizetext{
+    text-align: justify;
+    padding: 0px 20px 0px 0px;
+}
+.username{
+    padding: 0px 0px 10px 0px;
+}
+.password{
+    padding: 0px 0px 10px 0px;
+}
+.email{
+    padding: 0px 0px 10px 0px;
+}
+.age{
+    padding: 0px 0px 10px 0px;
+}
+
